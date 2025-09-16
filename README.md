@@ -1,4 +1,4 @@
-# MNV3
-MNV3 model
+# SMNV3-GRU
+SMNV3-GRU: Sequential MobileNetV3 with Gate-Recurrent-Unit Model for Continuous Human Action Recognition and its Application
 
 <img width="503" height="450" alt="image" src="https://github.com/user-attachments/assets/ac0d48f8-63f1-4c03-93ac-ebb9eaf80c80" />
