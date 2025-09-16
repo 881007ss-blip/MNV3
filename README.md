@@ -17,7 +17,5 @@ It supports:
 
 - **Model training and testing**  
 - **Real-time inference on a PC**  
-- **Optimized inference on a Jetson Xavier NX**  
-- **Full drone flight control through Jetson-based inference**
 
 
