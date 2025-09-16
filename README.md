@@ -20,8 +20,6 @@ It supports:
 
 ## 🖼️ System Architecture
 
-### System Setup
-
 <p align="center">
   <img width="503" height="167" alt="image" src="https://github.com/user-attachments/assets/ab33b6ec-d89a-40b6-af7c-8e8a808a3ac1" />
 
@@ -33,4 +31,4 @@ It supports:
 <p align="center">
 <img width="503" height="125" alt="image" src="https://github.com/user-attachments/assets/7695f448-0fd9-44db-8380-5511f6715c39" />
 </p>
-
+<p align="center"><i> Six designed wireless gestures.</i></p>
