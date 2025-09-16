@@ -27,6 +27,6 @@ It supports:
 
 </p>
 
-<p align="center"><i>Figure 3: Distributed UWB Network and UAV control setup</i></p>
+<p align="center"><i> Distributed UWB Network and UAV control setup</i></p>
 
 
