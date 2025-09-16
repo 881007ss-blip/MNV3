@@ -16,6 +16,17 @@ The system utilizes a hybrid architecture combining **MobileNetV3** and **GRU** 
 It supports:
 
 - **Model training and testing**  
-- **Real-time inference on a PC**  
+- **Real-time inference on a PC**
+
+## 🖼️ System Architecture
+
+### System Setup
+
+<p align="center">
+  <img width="503" height="167" alt="image" src="https://github.com/user-attachments/assets/ab33b6ec-d89a-40b6-af7c-8e8a808a3ac1" />
+
+</p>
+
+<p align="center"><i>Figure 3: Distributed UWB Network and UAV control setup</i></p>
 
 
