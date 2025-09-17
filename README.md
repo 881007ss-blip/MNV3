@@ -4,7 +4,8 @@ SMNV3-GRU: Sequential MobileNetV3 with Gate-Recurrent-Unit Model for Continuous 
 <h3 align="center">Model Architecture</h3>
 
 <p align="center">
-  <img width="503" height="450" alt="image" src="https://github.com/user-attachments/assets/ac0d48f8-63f1-4c03-93ac-ebb9eaf80c80" />
+<img width="503" height="447" alt="image" src="https://github.com/user-attachments/assets/1cd7e7ec-6193-46ab-ad8e-be4168e2b198" />
+
 </p>
 
 ---
