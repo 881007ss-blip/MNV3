@@ -42,4 +42,4 @@ It supports:
   <img width="244" height="208" alt="confusion-matrix" src="https://github.com/user-attachments/assets/0576a573-6782-481b-ab7c-dfda05055111" />
 </p>
 
-<p align="center"><i>Figure 4: Experiment 1 results – (Left) Training and validation loss curves, (Right) Confusion matrix</i></p>
+<p align="center">Experiment 1 results </i></p>
