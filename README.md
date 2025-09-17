@@ -33,3 +33,13 @@ It supports:
 <img width="503" height="125" alt="image" src="https://github.com/user-attachments/assets/7695f448-0fd9-44db-8380-5511f6715c39" />
 </p>
 <p align="center"><i> Six designed wireless gestures.</i></p>
+
+## 🧪 Results
+
+### Experiment 1
+<p align="center">
+  <img width="255" height="210" alt="loss-curve" src="https://github.com/user-attachments/assets/ea88ade5-4119-4a5e-bd08-c23e29214533" />
+  <img width="244" height="208" alt="confusion-matrix" src="https://github.com/user-attachments/assets/0576a573-6782-481b-ab7c-dfda05055111" />
+</p>
+
+<p align="center"><i>Figure 4: Experiment 1 results – (Left) Training and validation loss curves, (Right) Confusion matrix</i></p>
