@@ -36,7 +36,8 @@ It supports:
 
 ## 🧪 Results
 
-### Experiment 1
+### Experiment 1  
+You can watch the video here: [Demo Video](https://youtu.be/JeYRMwli88Q?si=l2oAThJ-h6hs4ItM)
 <p align="center">
   <img width="255" height="210" alt="loss-curve" src="https://github.com/user-attachments/assets/ea88ade5-4119-4a5e-bd08-c23e29214533" />
   <img width="244" height="208" alt="confusion-matrix" src="https://github.com/user-attachments/assets/0576a573-6782-481b-ab7c-dfda05055111" />
