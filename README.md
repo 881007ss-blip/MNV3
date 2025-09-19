@@ -39,15 +39,17 @@ It supports:
 
 ### Training and Validation Responses
 <p align="center">
-<img width="341" height="251" alt="image" src="https://github.com/user-attachments/assets/0ab5d939-3f4c-4f33-b375-f187205c062d" />
-<img width="328" height="245" alt="image" src="https://github.com/user-attachments/assets/742af9a7-8caf-493c-953e-7603ae041daa" />
-<img width="333" height="244" alt="image" src="https://github.com/user-attachments/assets/54bcd825-2836-4473-98c2-113ba5a7c0c9" />
+  <img width="341" height="251" alt="image" src="https://github.com/user-attachments/assets/0ab5d939-3f4c-4f33-b375-f187205c062d" /><br>(a)
+  <img width="328" height="245" alt="image" src="https://github.com/user-attachments/assets/742af9a7-8caf-493c-953e-7603ae041daa" /><br>(b)
+  <img width="333" height="244" alt="image" src="https://github.com/user-attachments/assets/54bcd825-2836-4473-98c2-113ba5a7c0c9" /><br>(c)
 </p>
+
 <p align="center">
-<img width="333" height="247" alt="image" src="https://github.com/user-attachments/assets/817c1f44-784f-414d-9e76-593ef65cede9" />
-<img width="323" height="252" alt="image" src="https://github.com/user-attachments/assets/afc6dafa-1a46-4de9-b393-90b30a092323" />
-<img width="314" height="250" alt="image" src="https://github.com/user-attachments/assets/2cdd8f76-ae35-4a11-8fc7-09e16d291eb4" />
+  <img width="333" height="247" alt="image" src="https://github.com/user-attachments/assets/817c1f44-784f-414d-9e76-593ef65cede9" /><br>(d)
+  <img width="323" height="252" alt="image" src="https://github.com/user-attachments/assets/afc6dafa-1a46-4de9-b393-90b30a092323" /><br>(e)
+  <img width="314" height="250" alt="image" src="https://github.com/user-attachments/assets/2cdd8f76-ae35-4a11-8fc7-09e16d291eb4" /><br>(f)
 </p>
+
 
 ## 🧪 Results
 
