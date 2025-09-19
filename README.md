@@ -63,8 +63,7 @@ It supports:
   </tr>
 </table>
 
-### Training and Validation Responses
-
+###
 ## 🧪 Confusion matrix
 
 <p align="center">
