@@ -11,8 +11,7 @@ SMNV3-GRU: Sequential MobileNetV3 with Gate-Recurrent-Unit Model for Continuous 
 ---
 
 ## 📘 Overview
-MNV3-GRU is a deep learning framework designed to leverage continuous image signals for action recognition, enabling real-time drone control.  
-The system utilizes a hybrid architecture combining **MobileNetV3** and **GRU** to enhance its understanding of temporal and spatial signals.
+The proposed SMNV3-GRU sequentially integrates a small version of MobileNetV3-based feature extractor with GRU-based temporal modeling, enabling efficient recognition of continuous human motion sequences.
 
 It supports:
 
@@ -33,6 +32,22 @@ It supports:
 <img width="503" height="125" alt="image" src="https://github.com/user-attachments/assets/7695f448-0fd9-44db-8380-5511f6715c39" />
 </p>
 <p align="center"><i> Six designed wireless gestures.</i></p>
+
+
+
+## 🚀 Performance
+
+### Training and Validation Responses
+<p align="center">
+<img width="341" height="251" alt="image" src="https://github.com/user-attachments/assets/0ab5d939-3f4c-4f33-b375-f187205c062d" />
+<img width="328" height="245" alt="image" src="https://github.com/user-attachments/assets/742af9a7-8caf-493c-953e-7603ae041daa" />
+<img width="333" height="244" alt="image" src="https://github.com/user-attachments/assets/54bcd825-2836-4473-98c2-113ba5a7c0c9" />
+</p>
+<p align="center">
+<img width="333" height="247" alt="image" src="https://github.com/user-attachments/assets/817c1f44-784f-414d-9e76-593ef65cede9" />
+<img width="323" height="252" alt="image" src="https://github.com/user-attachments/assets/afc6dafa-1a46-4de9-b393-90b30a092323" />
+<img width="314" height="250" alt="image" src="https://github.com/user-attachments/assets/2cdd8f76-ae35-4a11-8fc7-09e16d291eb4" />
+</p>
 
 ## 🧪 Results
 
@@ -61,3 +76,4 @@ You can watch the video here: [Video](https://youtu.be/S7VNDHIUlhk?si=bSFozpxuWW
 <img width="245" height="182" alt="image" src="https://github.com/user-attachments/assets/ed501984-8289-420d-b230-464b1b080b32" />
 
 <p align="center">Experiment 2 results </i></p>
+
