@@ -56,8 +56,8 @@ Confusion matrix
 <img width="677" height="536" alt="image" src="https://github.com/user-attachments/assets/b1e88cf3-8068-473c-a7b5-93513a8f600a" />
 
 
-## 🖼️ System Architecture
-
+## 🖼️ Application to human-UAV interactions
+Indoor quadrotor 
 <p align="center">
   <img width="503" height="167" alt="image" src="https://github.com/user-attachments/assets/ab33b6ec-d89a-40b6-af7c-8e8a808a3ac1" />
 
