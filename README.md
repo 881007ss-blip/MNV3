@@ -17,7 +17,15 @@ It supports:
 
 - **Model training and testing**  
 - **Real-time inference on a PC**
+## 📊 Dataset
+<p align="center">
+<img width="503" height="125" alt="image" src="https://github.com/user-attachments/assets/7695f448-0fd9-44db-8380-5511f6715c39" />
+</p>
+<p align="center"><i> Six designed wireless gestures.</i></p>
+## 🧪 Confusion matrix
 
+<p align="center">
+<img width="677" height="536" alt="image" src="https://github.com/user-attachments/assets/b1e88cf3-8068-473c-a7b5-93513a8f600a" />
 ## 🚀 Performance
 
 ### Training and Validation Responses
@@ -57,15 +65,7 @@ It supports:
 
 <p align="center"><i> Distributed UWB Network and UAV control setup</i></p>
 
-## 📊 Dataset
-<p align="center">
-<img width="503" height="125" alt="image" src="https://github.com/user-attachments/assets/7695f448-0fd9-44db-8380-5511f6715c39" />
-</p>
-<p align="center"><i> Six designed wireless gestures.</i></p>
-## 🧪 Confusion matrix
 
-<p align="center">
-<img width="677" height="536" alt="image" src="https://github.com/user-attachments/assets/b1e88cf3-8068-473c-a7b5-93513a8f600a" />
 
 ### Experiment 1  
 You can watch the video here: [Video](https://youtu.be/JeYRMwli88Q?si=l2oAThJ-h6hs4ItM)
