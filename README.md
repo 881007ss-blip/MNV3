@@ -50,7 +50,7 @@ It supports:
     </td>
   </tr>
 </table>
-### 🧪 Confusion matrix
+Confusion matrix
 
 <p align="center">
 <img width="677" height="536" alt="image" src="https://github.com/user-attachments/assets/b1e88cf3-8068-473c-a7b5-93513a8f600a" />
