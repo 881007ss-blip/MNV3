@@ -22,7 +22,11 @@ It supports:
 <img width="503" height="125" alt="image" src="https://github.com/user-attachments/assets/7695f448-0fd9-44db-8380-5511f6715c39" />
 </p>
 <p align="center"><i> Six designed wireless gestures.</i></p>
+###  Sequential Images for Six Designed Human Actions  
+ 
+Each sequence contains color images with a resolution of **224×224**, prepared for training and evaluation purposes.  
 
+📂 [Google Drive Link](https://drive.google.com/drive/folders/1p6aKKVxHDFl7NWXeQu0tIyUyt5PiVJxl?usp=drive_link)
 ## 🚀 Performance
 
 ### Training and Validation Responses
